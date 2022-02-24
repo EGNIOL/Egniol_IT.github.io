@@ -1,0 +1,418 @@
+#logo1 {
+    width: 250px !important;
+    height: 50px !important;
+}
+
+.content1 {
+    margin-top: 2% !important;
+}
+
+.header-appear .navbar-top-default {
+    width: 106% !important;
+}
+
+.side-menu.center {
+    background-color: #000 !important;
+}
+
+.btn-hvr-blue::after {
+    background-color: #f908d3;
+}
+
+.bottom-nav {
+    margin-left: -6% !important;
+}
+
+.logo-default {
+    margin-left: 60% !important;
+}
+
+.image1 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 10% !important;
+}
+
+.image2 {
+    width: 36% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 5% !important;
+    margin-top: 7% !important;
+    margin-bottom: 7% !important;
+}
+
+.image4 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 10% !important;
+}
+
+.image3 {
+    width: 36% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 5% !important;
+}
+
+.mb-1 {
+    padding-top: 5% !important;
+}
+
+.w1 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 8% !important;
+    margin-top: -124% !important;
+    padding-top: 2% !important;
+}
+
+.w2 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-right: 5% !important;
+    margin-left: 5% !important;
+    padding-top: 2% !important;
+}
+
+.w3 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 8% !important;
+    margin-top: -295% !important;
+}
+
+.w4 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    margin-top: 4% !important;
+}
+
+.w5 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 8% !important;
+    margin-top: -325% !important;
+}
+
+.w6 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    margin-top: 4% !important;
+}
+
+.w7 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 8% !important;
+    margin-top: -273% !important;
+}
+
+.w8 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: -40% !important;
+    margin-top: -12% !important;
+}
+
+.g1 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 13% !important;
+}
+
+.g2 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 7% !important;
+    margin-right: 10% !important;
+}
+
+.g3 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 13% !important;
+    margin-top: 5% !important;
+}
+
+.g4 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 7% !important;
+    margin-top: 5% !important;
+    margin-right: 10% !important;
+}
+
+.g5 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 13% !important;
+    margin-top: 5% !important;
+}
+
+.g6 {
+    width: 34% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 7% !important;
+    margin-top: 5% !important;
+    margin-right: 10% !important;
+}
+
+.g7 {
+    width: 75% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 13% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+.g8 {
+    width: 75% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 13% !important;
+    margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+
+.c1 {
+    margin-top: 2% !important;
+}
+
+#m1 {
+    margin-top: 10% !important;
+}
+
+#c2 {
+    max-width: 900px !important;
+}
+
+.g1,
+.g2,
+.g3,
+.g4,
+.g5,
+.g6,
+.g7,
+.g8 {
+    box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+}
+
+#b1:hover,
+#b2:hover,
+#b3:hover {
+    scale: 1.05;
+    box-shadow: rgb(0, 0, 0) 6px 6px 8px 5px;
+}
+
+.image1,
+.image2,
+.image3,
+.image4 {
+    box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+}
+
+.image1:hover,
+.image2:hover,
+.image3:hover,
+.image4:hover {
+    scale: 1.1;
+}
+
+.w1,
+.w2,
+.w3,
+.w4,
+.w5,
+.w6,
+.w7,
+.w8 {
+    box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+}
+
+.w1:hover,
+.w2:hover,
+.w3:hover,
+.w4:hover,
+.w5:hover,
+.w6:hover,
+.w7:hover,
+.w8:hover {
+    scale: 1.03;
+}
+
+.g1:hover,
+.g2:hover,
+.g3:hover,
+.g4:hover,
+.g5:hover,
+.g6:hover,
+.g7:hover,
+.g8:hover {
+    scale: 1.08;
+}
+
+.p-half {
+    padding: 0% !important;
+}
+
+.main-title {
+    margin-bottom: 3rem !important;
+}
+
+@media screen and (max-width: 850px) {
+    #b1 {
+        margin-top: ;
+    }
+    #c10 {
+        font-size: 18px !important;
+        letter-spacing: 3px !important;
+        line-height: 25px !important;
+    }
+    .logo-default {
+        margin-left: 47% !important;
+    }
+    .rare-box {
+        height: 185px !important;
+    }
+    .content1 {
+        margin-top: 5% !important;
+    }
+    p {
+        font-weight: 400 !important;
+        word-spacing: normal !important;
+    }
+    .g1,
+    .g2,
+    .g3,
+    .g4,
+    .g5,
+    .g6,
+    .g7,
+    .g8 {
+        box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+    }
+    #b1,
+    #b2,
+    #b3 {
+        box-shadow: rgb(0, 0, 0) 6px 6px 8px 5px;
+    }
+    .image1,
+    .image2,
+    .image3,
+    .image4 {
+        box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+    }
+    .w1,
+    .w2,
+    .w3,
+    .w4,
+    .w5,
+    .w6,
+    .w7,
+    .w8 {
+        box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #c10 {
+        font-size: 18px !important;
+        word-spacing: 3px !important;
+        line-height: 25px !important;
+    }
+    .rare-box {
+        height: 170px !important;
+    }
+    .content1 {
+        margin-top: 3% !important;
+    }
+    img.w5 {
+        margin-left: 5% !important;
+    }
+    img.w7 {
+        margin-left: -36% !important;
+        margin-right: 9% !important;
+    }
+    img.w8 {
+        margin-left: -50% !important;
+    }
+    .copyrights {
+        font-size: 12px;
+        text-align: center !important;
+    }
+    footer.p-half {
+        padding: 0% !important;
+        text-align: center !important;
+    }
+    .parallax-setting {
+        height: 50% !important;
+    }
+    h3#m1 {
+        margin-top: 15% !important;
+    }
+    #b1,
+    #b2,
+    #b3 {
+        box-shadow: rgb(0, 0, 0) 6px 6px 15px 5px;
+    }
+    .image1,
+    .image2,
+    .image3,
+    .image4 {
+        margin-left: 2.5% !important;
+        margin-right: 2.5% !important;
+        box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
+    }
+    .w1,
+    .w3 {
+        margin-left: 5% !important;
+    }
+    .logo-default {
+        margin-left: 15% !important;
+    }
+    p {
+        text-align: justify !important;
+    }
+}
