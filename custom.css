@@ -129,7 +129,7 @@
     display: inline !important;
     position: relative !important;
     margin-left: 8% !important;
-    margin-top: -273% !important;
+    margin-top: -425% !important;
 }
 
 .w8 {
@@ -138,7 +138,17 @@
     display: inline !important;
     position: relative !important;
     margin-left: -40% !important;
-    margin-top: -12% !important;
+    margin-top: -165% !important;
+}
+
+.w9 {
+    width: 40% !important;
+    height: 100% !important;
+    display: inline !important;
+    position: relative !important;
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+    margin-top: 4% !important;
 }
 
 .g1 {
@@ -267,7 +277,8 @@
 .w5,
 .w6,
 .w7,
-.w8 {
+.w8,
+.w9 {
     box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
 }
 
@@ -278,7 +289,8 @@
 .w5:hover,
 .w6:hover,
 .w7:hover,
-.w8:hover {
+.w8:hover,
+.w9:hover {
     scale: 1.03;
 }
 
@@ -351,7 +363,8 @@
     .w5,
     .w6,
     .w7,
-    .w8 {
+    .w8,
+    .w9 {
         box-shadow: rgb(0, 0, 0) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgb(0, 0, 0) -50px 0px 100px -20px, rgba(0, 0, 0, 0.3) -30px 0px 60px -30px;
     }
 }
@@ -372,11 +385,11 @@
         margin-left: 5% !important;
     }
     img.w7 {
-        margin-left: -36% !important;
-        margin-right: 9% !important;
+        margin-left: 3% !important;
+        margin-right: -38% !important;
     }
     img.w8 {
-        margin-left: -50% !important;
+        margin-left: -1% !important;
     }
     .copyrights {
         font-size: 12px;
